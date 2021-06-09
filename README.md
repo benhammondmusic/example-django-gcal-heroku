@@ -9,7 +9,12 @@ The blog post itself is currently being written and will appear on my blog at [b
 - Blog: [blog.benhammond.tech](https://blog.benhammond.tech)
 - Portfolio: [benhammond.tech](https://benhammond.tech)
 
-## Little Cabin App
+## Project Made For Blog Post (Example of this process)
+
+- Live Site on Heroku: [Example Django GCal Heroku](https://example-django-gcal-heroku.herokuapp.com/)
+- GitHub Repo: [Example Django GCal Heroku](https://github.com/benhammondmusic/example-django-gcal-heroku)
+
+## Little Cabin App (Working Example of this process)
 
 - Live Site on Heroku: [littlecabin.herokuapp.com](https://littlecabin.herokuapp.com)
 - GitHub Repo: [Little Cabin](https://github.com/benhammondmusic/littlecabin)
