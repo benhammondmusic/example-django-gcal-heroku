@@ -8,5 +8,6 @@ def home(request):
 
 
 def demo(request):
-    test_calendar()
-    return render(request, 'demo.html')    
+    results = test_calendar()
+    context = {"results": results}
+    return render(request, 'demo.html', context)    

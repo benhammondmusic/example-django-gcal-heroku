@@ -10,6 +10,7 @@ SERVICE_ACCOUNT_FILE = './google-credentials.json'
 
 def test_calendar():
     print("RUNNING TEST_CALENDAR()")
+    return ["this", "is", "a", "test"]
     
 """     credentials = service_account.Credentials.from_service_account_file(SERVICE_ACCOUNT_FILE, scopes=SCOPES)
     service = googleapiclient.discovery.build('calendar', 'v3', credentials=credentials)
