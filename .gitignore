@@ -3,7 +3,10 @@
 .env
 
 # this hidden file contains sensitive keys and environmental config vars 
-example_project/.env
+example/.env
+
+# this token contains your sensitive google service account info
+google-credentials.json
 
 # Created by https://www.toptal.com/developers/gitignore/api/django
 # Edit at https://www.toptal.com/developers/gitignore?templates=django

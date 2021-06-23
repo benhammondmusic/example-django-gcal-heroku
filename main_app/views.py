@@ -1,7 +1,6 @@
 from django.shortcuts import render
 from .calendar_API import test_calendar
 
-
 # Create your views here.
 def home(request):
     return render(request, 'home.html')
